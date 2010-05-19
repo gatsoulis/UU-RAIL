@@ -1,1 +1,0 @@
-/usr/bin/c++  -fPIC   -shared -Wl,-soname,libUU-RAIL-Core.so -o libUU-RAIL-Core.so CMakeFiles/UU-RAIL-Core.dir/kmeans.cpp.o CMakeFiles/UU-RAIL-Core.dir/Math.cpp.o 

@@ -1,0 +1,34 @@
+#IncludeRegexLine: ^[ 	]*#[ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/chris/Documents/workspace/RAIL/Math/Math.cpp
+Math.h
+/home/chris/Documents/workspace/RAIL/Math/Math.h
+math.h
+-
+
+/home/chris/Documents/workspace/RAIL/Math/Math.h
+math.h
+-
+iostream
+-
+string.h
+-
+stdio.h
+-
+
+/home/chris/Documents/workspace/RAIL/Math/kmeans.cpp
+stdlib.h
+-
+assert.h
+-
+float.h
+-
+math.h
+-
+

@@ -1,0 +1,6 @@
+Kohonen Map files.
+
+Neighbourhood 1x1 (this could be improved)
+No decay on the learning rate (this could be improved)
+
+Use doxygen to generate documentation

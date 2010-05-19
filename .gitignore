@@ -1,6 +1,8 @@
-ML/Kohonen/doc/
 .project
 .cproject
 doc/
 Debug/
 Release/
+Build/
+Doc/
+Src/ML/Kohonen/doc/

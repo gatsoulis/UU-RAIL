@@ -2,3 +2,5 @@ ML/Kohonen/doc/
 .project
 .cproject
 doc/
+Debug/
+Release/
